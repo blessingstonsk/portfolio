@@ -51,7 +51,7 @@ flowchart LR
 | **Experience** | Faculty role at VIT, plus internships at NEVAR Systems, OpenWeaver and CSIR–CLRI |
 | **Research** | An interactive 3D street scene linked to the three research themes above |
 | **Projects** | GIS-Integrated Drone Inspection, ASL Recognition and a Dynamic Ticketing Portal, each with a details panel |
-| **Contact** | Address, phone, email, LinkedIn, GitHub and Google Scholar |
+| **Contact** | Address, email, LinkedIn, GitHub and Google Scholar |
 
 ## Interactive features
 
