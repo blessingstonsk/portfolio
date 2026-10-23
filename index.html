@@ -428,6 +428,7 @@ dialog.modal::backdrop { background: rgba(10, 9, 7, 0.72); backdrop-filter: blur
 
 /* ---------- contact: Clark info boxes ---------- */
 .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: clamp(16px, 2.4vw, 24px); }
+.info-box[hidden], .foot-list li[hidden] { display: none; }
 .info-box { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 30px 24px; display: grid; justify-items: center; text-align: center; gap: 10px; align-content: start; }
 .info-ico { width: 64px; height: 64px; border-radius: 50%; display: grid; place-items: center; background: var(--accent); color: var(--accent-ink); margin-bottom: 6px; }
 .info-ico svg { width: 26px; height: 26px; }
